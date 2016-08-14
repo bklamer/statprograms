@@ -1,3 +1,3 @@
-# statprograms 0.0.9000 (YYYY-MM-DD)
+# statprograms 0.1.0 (2016-08-14)
 
-- Working towards initial release.
+- Initial release of statprograms and degreesawarded datasets.

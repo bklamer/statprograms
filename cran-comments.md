@@ -5,7 +5,7 @@ This is the first release to CRAN.
 ## Test environments
 
 - local ubuntu 16.04, R 3.3.1
-- local Windows 10, R 3.3.1
+- win-builder (devel and release)
 
 ## R CMD check results
 
