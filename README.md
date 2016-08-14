@@ -12,4 +12,4 @@ The `degreesawarded` dataframe contains the number of degrees awarded per year. 
 
 ## Contributing
 
-Find an error? Missing a statistics program? Please contact me at `code@brettklamer.com` or submit an issue/pull request at <https://github.com/bklamer/statprograms>.
+Found an error? Missing a statistics program? Please contact me at `code@brettklamer.com` or submit an issue/pull request at <https://github.com/bklamer/statprograms>.
