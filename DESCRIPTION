@@ -1,0 +1,9 @@
+Package: statprograms
+Title: Datasets for Graduate Statistics Programs from the United States
+Version: 0.0.9000
+Authors@R: person("Brett", "Klamer", email = "code@brettklamer.com", role = c("aut", "cre"))
+Description: A small collection of data on graduate statistics programs from the United States.
+License: MIT + file LICENSE
+Depends: R (>= 2.10.0)
+LazyData: TRUE
+RoxygenNote: 5.0.1
