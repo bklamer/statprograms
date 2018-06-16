@@ -14,7 +14,7 @@
  \item{\code{state}}{The state}
  \item{\code{city}}{The city}
  \item{\code{square_miles}}{The square miles of the city (or region) from \url{https://www.wikipedia.org/}}
- \item{\code{population}}{The population of the city (or region) from \url{https://www.wikipedia.org/} or \url{http://www.census.gov/popest/data/index.html}. Most are estimates from 2010 to 2014.}
+ \item{\code{population}}{The population of the city (or region) from \url{https://www.wikipedia.org/} or \url{https://www.census.gov/programs-surveys/popest/data/data-sets.html}. Most are estimates from 2010 to 2014.}
  \item{\code{density}}{The population density}
  \item{\code{average_winter}}{The average winter temperature from \url{http://weatherdb.com}}
  \item{\code{average_summer}}{The average summer temperature from \url{http://weatherdb.com}}
