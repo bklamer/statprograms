@@ -1,11 +1,10 @@
 ## Release summary
 
-This is the first release to CRAN.
+This is the second release to CRAN. Updated data to year 2016.
 
 ## Test environments
 
-- local ubuntu 16.04, R 3.3.1
-- win-builder (devel and release)
+- local ubuntu 16.04, R 3.4.4
 
 ## R CMD check results
 
